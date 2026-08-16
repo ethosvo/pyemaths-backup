@@ -1,1 +1,3 @@
 hostinger-backup/wp-config.php.reference
+hostinger-backup/*.pem
+.env
