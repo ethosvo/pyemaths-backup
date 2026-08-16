@@ -1,0 +1,2 @@
+hostinger-backup/*.zip filter=lfs diff=lfs merge=lfs -text
+hostinger-backup/*.sql filter=lfs diff=lfs merge=lfs -text
